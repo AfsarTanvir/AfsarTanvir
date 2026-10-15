@@ -21,8 +21,8 @@ Building scalable backend applications with AdonisJS, PostgreSQL, Redis, and Rea
 - Kubernetes
 - Database Optimization
 
-### GitHub Streaks
+### GitHub Activity
 
-Below are your GitHub streak stats showing your current continuous streak and longest continuous streak.
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AfsarTanvir&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://ghchart.rshah.org/AfsarTanvir" alt="Afsar Tanvir GitHub contributions chart" />
+</p>
