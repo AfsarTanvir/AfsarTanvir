@@ -21,7 +21,7 @@ Building scalable backend applications with AdonisJS, PostgreSQL, Redis, and Rea
 - Kubernetes
 - Database Optimization
 
-### GitHub Stats (last 365 days)
+### Afsar Tanvir's GitHub Stats
 
 <p align="center">
   <!-- Current & Longest continuous streak (image badge) -->
@@ -29,6 +29,6 @@ Building scalable backend applications with AdonisJS, PostgreSQL, Redis, and Rea
 </p>
 
 <p align="center">
-  <!-- Numeric commits in last 365 days (image badge) -->
-  <img src="https://badges.pufler.dev/commits/year?login=AfsarTanvir" alt="Commits this year" />
+  <!-- Detailed stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AfsarTanvir&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="Afsar Tanvir GitHub Stats" />
 </p>
