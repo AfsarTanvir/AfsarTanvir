@@ -25,7 +25,7 @@ Building scalable backend applications with AdonisJS, PostgreSQL, Redis, and Rea
 
 <p align="center">
   <!-- Current & Longest continuous streak (image badge) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfsarTanvir&theme=dark&hide_border=true" alt="Afsar Tanvir GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfsarTanvir&theme=dark&hide_border=true&hide_total_contributions=true" alt="Afsar Tanvir GitHub Streak" />
 </p>
 
 <p align="center">
