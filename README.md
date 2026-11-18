@@ -4,6 +4,10 @@ Backend Software Engineer
 
 Building scalable backend applications with AdonisJS, PostgreSQL, Redis, and React.
 
+### Portfolio
+
+Check out my projects and experience on my [Portfolio](https://afsartanvir.github.io/Portfolio/).
+
 ### Tech
 
 - AdonisJS
